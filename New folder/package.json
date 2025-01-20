@@ -1,0 +1,18 @@
+{
+    "name": "frontend-case-study",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0",
+      "react-router-dom": "^6.14.1",
+      "react-leaflet": "^4.2.0",
+      "leaflet": "^1.9.4"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    }
+  }
